@@ -1,2 +1,2 @@
 user-agent: \*
-sitemap: https://mkws.netlify.com/sitemap.xml
+sitemap: https://mkws.netlify.com//sitemap.xml
